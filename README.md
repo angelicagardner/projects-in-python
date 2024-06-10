@@ -8,7 +8,7 @@ Below is an overview of the projects, read each project-specific `README.md` for
 
 ### 1. Algorithmic Trading
 
-(WIP)
+Jupyter Notebooks exploring different trading strategies.
 
 ### 2. Smart Closet
 
